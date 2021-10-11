@@ -1,7 +1,10 @@
 # ShoeApp Landing Page
 1- git clone https://github.com/Vallevard/shoeAppLandingPage.git
+
 2- cd "appname"
+
 3- npm install
+
 4- gulp
 
 
