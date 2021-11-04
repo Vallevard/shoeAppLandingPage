@@ -26,7 +26,7 @@ function scssTask(){
     .pipe(sass({
       style: 'compressed'
     }))
-    .pipe(postcss([cssnano()]))
+    // .pipe(postcss([cssnano()]))
     .pipe(rename({
         basename: 'main',
         suffix: '.min'
